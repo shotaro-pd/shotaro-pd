@@ -1,4 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotaro-pd)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋
+
+## Shotaro-pd's Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotaro-pd&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
