@@ -3,6 +3,8 @@
 ## Shotaro-pd's Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotaro-pd&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository)
+
 
 <!--
 **shotaro-pd/shotaro-pd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
