@@ -4,7 +4,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shotaro-pd)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Shotaro-pd's Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotaro-pd&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotaro-pd&theme=prussian&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5)
 
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository)
 
