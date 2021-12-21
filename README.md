@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Github Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=shotaro-pd)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Shotaro-pd's Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotaro-pd&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
